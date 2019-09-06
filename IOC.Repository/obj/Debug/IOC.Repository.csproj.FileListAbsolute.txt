@@ -1,0 +1,6 @@
+C:\Users\vickram.rameshbabu\source\repos\IOC\IOC.Repository\bin\Debug\IOC.Repository.dll
+C:\Users\vickram.rameshbabu\source\repos\IOC\IOC.Repository\bin\Debug\IOC.Repository.pdb
+C:\Users\vickram.rameshbabu\source\repos\IOC\IOC.Repository\obj\Debug\IOC.Repository.csprojAssemblyReference.cache
+C:\Users\vickram.rameshbabu\source\repos\IOC\IOC.Repository\obj\Debug\IOC.Repository.csproj.CoreCompileInputs.cache
+C:\Users\vickram.rameshbabu\source\repos\IOC\IOC.Repository\obj\Debug\IOC.Repository.dll
+C:\Users\vickram.rameshbabu\source\repos\IOC\IOC.Repository\obj\Debug\IOC.Repository.pdb

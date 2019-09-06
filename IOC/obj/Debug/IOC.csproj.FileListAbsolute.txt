@@ -1,0 +1,14 @@
+C:\Users\vickram.rameshbabu\source\repos\IOC\IOC\obj\Debug\IOC.csprojAssemblyReference.cache
+C:\Users\vickram.rameshbabu\source\repos\IOC\IOC\obj\Debug\IOC.csproj.CoreCompileInputs.cache
+C:\Users\vickram.rameshbabu\source\repos\IOC\IOC\bin\Debug\IOC.exe.config
+C:\Users\vickram.rameshbabu\source\repos\IOC\IOC\bin\Debug\IOC.exe
+C:\Users\vickram.rameshbabu\source\repos\IOC\IOC\bin\Debug\IOC.pdb
+C:\Users\vickram.rameshbabu\source\repos\IOC\IOC\bin\Debug\IOC.Repository.dll
+C:\Users\vickram.rameshbabu\source\repos\IOC\IOC\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vickram.rameshbabu\source\repos\IOC\IOC\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vickram.rameshbabu\source\repos\IOC\IOC\bin\Debug\IOC.Repository.pdb
+C:\Users\vickram.rameshbabu\source\repos\IOC\IOC\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\vickram.rameshbabu\source\repos\IOC\IOC\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\vickram.rameshbabu\source\repos\IOC\IOC\obj\Debug\IOC.csproj.CopyComplete
+C:\Users\vickram.rameshbabu\source\repos\IOC\IOC\obj\Debug\IOC.exe
+C:\Users\vickram.rameshbabu\source\repos\IOC\IOC\obj\Debug\IOC.pdb
